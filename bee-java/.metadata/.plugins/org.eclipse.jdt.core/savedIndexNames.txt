@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+D:\Programação\Projects\URI\bee-java\.metadata\.plugins\org.eclipse.jdt.core
-2889608544.index
-2960758626.index
-1865797976.index
